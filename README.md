@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Randolph 👋
 
-<!--
-**Dodof00/Dodof00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a musician and songwriter passionate about creating music. I love exploring AI music generation tools like Suno and Udio.
 
-Here are some ideas to get you started:
+## Skills
+- 🎸 Guitar
+- 🎹 Piano
+- 🎤 Singing
+- 🎶 Songwriting
+- Saxophone players
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Project 1 - Description of project 1
+- Project 2 - Description of project 2
+
+## Connect with Me
+- Twitter
+- LinkedIn
+- YouTube
